@@ -11,7 +11,6 @@
 | -------- | --------- | --------------- | -------- | ----------- |
 | `first`  | `first`   | The first name  | `string` | `undefined` |
 | `last`   | `last`    | The last name   | `string` | `undefined` |
-| `last2`  | `last-2`  |                 | `string` | `undefined` |
 | `middle` | `middle`  | The middle name | `string` | `undefined` |
 
 
