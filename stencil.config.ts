@@ -9,6 +9,10 @@ export const config: Config = {
       esmLoaderPath: '../loader',
     },
     {
+      type: 'dist-custom-elements',
+      autoDefineCustomElements: true
+    },
+    {
       type: 'docs-readme',
     },
     {
