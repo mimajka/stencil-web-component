@@ -28,7 +28,7 @@ export class MyComponent {
   }
 
   render() {
-    const imageSrc = getAssetPath(`./assets/logo.png`);
+    const imageSrc = getAssetPath(`/assets/logo.png`);
     return <div>Hello, World! I'm {this.getText()}
       <img src={imageSrc}/>
     </div>;
